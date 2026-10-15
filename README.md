@@ -63,7 +63,7 @@ I'm just getting started on GitHub. My first repositories will appear here soon,
 
 ## 📫 Connect With Me
 
-- 📧 Email: your.email@example.com
+- 📧 Email: null4ry@gmail.com
 
 ---
 
