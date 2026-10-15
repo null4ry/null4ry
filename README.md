@@ -24,19 +24,19 @@ I'm an 18-year-old student preparing for **CUET** to pursue a **B.Sc. in Biotech
 
 ## 🛠️ WHAT I'M LEARNING
 
-### 🐍 Python
+### 🐍 PYTHON
 Programming Fundamentals · Data Structures · Functions · File Handling · Modules · Debugging · Virtual Environments
 
-### 🔬 Scientific Computing
+### 🔬 SCIENTIFIC COMPUTING
 NumPy · Pandas · Matplotlib · Jupyter Notebook
 
-### 📐 Math & Statistics
+### 📐 MATH & STATISTICS
 Probability · Statistics · Linear Algebra · Quantitative Reasoning
 
-### 💻 Computing Foundations
+### 💻 COMPUTING FOUNDATIONS
 Linux / Bash · Git & GitHub · SQL & Databases · Algorithms & Data structures
 
-### 🌍 Languages
+### 🌍 LANGUAGES
 German · English
 
 ---
