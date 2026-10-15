@@ -1,4 +1,4 @@
-# Hi, I'm Kewal 👋
+# Hi, I'm K 👋
 
 **Aspiring Bioinformatics Analyst | CUET Aspirant | Python Learner**
 
@@ -64,6 +64,7 @@ I'm just getting started on GitHub. My first repositories will appear here soon,
 ## 📫 CONNECT WITH ME
 
 - 📧 Email: null4ry@gmail.com
+- 💼 LinkedIn: Coming soon. I'll add my link once I start my B.Sc. journey.
 
 ---
 
