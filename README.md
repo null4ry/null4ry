@@ -1,6 +1,6 @@
 # Hi, I'm K 👋
 
-**Aspiring Bioinformatics Analyst | CUET Aspirant | Python Learner**
+**ASPIRING BIOINFORMATICS ANALYST | CUET ASPIRANT | PYTHON LEARNER**
 
 I'm an 18-year-old student preparing for **CUET** to pursue a **B.Sc. in Biotechnology / Bioinformatics**, followed by an **M.Sc. in Bioinformatics**. Alongside my exam prep, I'm building practical skills in programming, data analysis and mathematics so I can work at the intersection of biology and computing.
 
@@ -8,17 +8,11 @@ I'm an 18-year-old student preparing for **CUET** to pursue a **B.Sc. in Biotech
 
 ## 🎯 WHERE I'M HEADED
 
-**Career goal:** Bioinformatics Analyst / Data Assistant, someone who can:
+**CAREER GOAL:** Bioinformatics Analyst / Data Assistant, someone who can:
 
 - Run, maintain and automate established bioinformatics pipelines.
 - Perform quality control (QC) on sequencing data.
 - Build analytical dashboards that make results easy to understand.
-
-**Education path:**
-
-1. Get into a B.Sc. Biotechnology / Bioinformatics program through CUET.
-2. Continue to an M.Sc. in Bioinformatics.
-3. Learn in public and document my progress here on GitHub.
 
 ---
 
