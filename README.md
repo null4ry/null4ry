@@ -6,7 +6,7 @@ I'm an 18-year-old student preparing for **CUET** to pursue a **B.Sc. in Biotech
 
 ---
 
-## 🎯 Where I'm Headed
+## 🎯 WHERE I'M HEADED
 
 **Career goal:** Bioinformatics Analyst / Data Assistant, someone who can:
 
@@ -22,7 +22,7 @@ I'm an 18-year-old student preparing for **CUET** to pursue a **B.Sc. in Biotech
 
 ---
 
-## 🛠️ What I'm Learning
+## 🛠️ WHAT I'M LEARNING
 
 ### 🐍 Python
 Programming Fundamentals · Data Structures · Functions · File Handling · Modules · Debugging · Virtual Environments
@@ -41,7 +41,7 @@ German · English
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 TECH STACK
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -55,13 +55,13 @@ German · English
 
 ---
 
-## 📌 Projects
+## 📌 PROJECTS
 
 I'm just getting started on GitHub. My first repositories will appear here soon, including practice notebooks, small Python programs and beginner data analysis projects.
 
 ---
 
-## 📫 Connect With Me
+## 📫 CONNECT WITH ME
 
 - 📧 Email: null4ry@gmail.com
 
