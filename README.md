@@ -10,31 +10,31 @@ I'm an 18-year-old student preparing for **CUET** to pursue a **B.Sc. in Biotech
 
 **Career goal:** Bioinformatics Analyst / Data Assistant, someone who can:
 
-- Run, maintain, and automate established bioinformatics pipelines
-- Perform quality control (QC) on sequencing data
-- Build analytical dashboards that make results easy to understand
+- Run, maintain and automate established bioinformatics pipelines.
+- Perform quality control (QC) on sequencing data.
+- Build analytical dashboards that make results easy to understand.
 
 **Education path:**
 
-1. Get into a B.Sc. Biotechnology / Bioinformatics program through CUET
-2. Continue to an M.Sc. in Bioinformatics
-3. Learn in public and document my progress here on GitHub
+1. Get into a B.Sc. Biotechnology / Bioinformatics program through CUET.
+2. Continue to an M.Sc. in Bioinformatics.
+3. Learn in public and document my progress here on GitHub.
 
 ---
 
 ## 🛠️ What I'm Learning
 
 ### 🐍 Python
-Programming fundamentals · Data structures · Functions · File handling · Modules · Debugging · Virtual environments
+Programming Fundamentals · Data Structures · Functions · File Handling · Modules · Debugging · Virtual Environments
 
 ### 🔬 Scientific Computing
 NumPy · Pandas · Matplotlib · Jupyter Notebook
 
 ### 📐 Math & Statistics
-Probability · Statistics · Linear algebra · Quantitative reasoning
+Probability · Statistics · Linear Algebra · Quantitative Reasoning
 
 ### 💻 Computing Foundations
-Linux / Bash · Git & GitHub · SQL & databases · Algorithms & data structures
+Linux / Bash · Git & GitHub · SQL & Databases · Algorithms & Data structures
 
 ### 🌍 Languages
 German · English
@@ -57,7 +57,7 @@ German · English
 
 ## 📌 Projects
 
-I'm just getting started on GitHub. My first repositories will appear here soon, including practice notebooks, small Python programs, and beginner data analysis projects.
+I'm just getting started on GitHub. My first repositories will appear here soon, including practice notebooks, small Python programs and beginner data analysis projects.
 
 ---
 
